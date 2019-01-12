@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset= "UTF-8">
+</head>
+
+<body>
+
+<ul class="topnav">
+  <li><a href="Landing Page">Home</a></li>
+  <li><a href="Features">Features</a></li>
+  <li><a href="Bug">Bug Hunters</a></li>
+  <li><a href="Contact Us">Contact Us</a></li>
+    <div class="login-container">
+    <form action="login info/action_page.php">
+      <input type="text" placeholder="Username" name="username">
+      <input type="text" placeholder="Password" name="psw">
+      <button type="submit">Login</button>
+      <button><a href="reg">Register</button></a>
+      </form>
+      </div>
+</ul>
+
+<center><font size=6><h1>Bug Hunt Hero's!</h1></font></center>
+<center><font size=4><h2> If you submit a report to the team and we correct the reported bugs you will get your name forever saved to the webpage as a Bug Hunter. Happy hunting!</h2></font></center>
+
+<body>
+</body>
+<div class="footer">
+<footer><font size=2>
+	<a href="Privacy">Privacy Statement</a>
+	<p><a href="About">About Us</a></p>
+</html>

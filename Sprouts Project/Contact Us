@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset= "UTF-8">
+<head>
+<link rel="stylesheet" href="css/Contact.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<ul class="topnav">
+  <li><a href="Landing Page">Home</a></li>
+  <li><a href="Features">Features</a></li>
+  <li><a href="Bug">Bug Hunters</a></li>
+  <li><a href="Contact Us">Contact Us</a></li>
+    <div class="login-container">
+    <form action="login info/action_page.php">
+      <input type="text" placeholder="Username" name="username">
+      <input type="text" placeholder="Password" name="psw">
+      <button type="submit">Login</button>
+      <button><a href="reg">Register</button></a>
+      </form>
+      </div>
+</ul>
+
+<center><font size=5><h1>Sprouts Investing</h1></center></font>
+<b><b><b><b><b><b>
+
+<body>
+
+<center><font size=3><h3>Contact Form</h3></font size>
+
+<div class="container">
+  <form action="/action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="usa">USA</option>
+      <option value="canada">Canada</option>
+      <option value="mexico">Mexico</option>
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+  </form>
+</div>
+
+</body>
+<BR><BR><BR><BR>
+<div class="footer">
+<footer><font size=2>
+		<a href="Privacy">Privacy Statement</a>
+		<p><a href="About">About Us</a></p>

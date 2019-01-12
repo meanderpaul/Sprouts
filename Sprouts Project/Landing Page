@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset= "UTF-8">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/login.css">
+
+</style>
+</head>
+<body>
+
+<ul class="topnav">
+  <li><a href="Landing Page">Home</a></li>
+  <li><a href="Features">Features</a></li>
+  <li><a href="Bug">Bug Hunters</a></li>
+  <li><a href="Contact Us">Contact Us</a></li>
+    <div class="login-container">
+    <form action="login info/action_page.php">
+      <input type="text" placeholder="Username" name="username">
+      <input type="text" placeholder="Password" name="psw">
+      <button type="submit">Login</button>
+      <button><a href="reg">Register</button></a>
+      </form>
+      </div>
+</ul>
+
+<br><br><br><br><br>
+<center><font size=5><h1>Welcome to Sprouts Investing!</h1></center>
+</font>
+
+<body>
+
+This void space is for information of the platform
+
+
+<div class="container">
+  <form action="/action_page.php">
+    <div class="row">
+      <h2 style="text-align:center">Login with Social Media or Manually</h2>
+      <div class="vl">
+        <span class="vl-innertext">or</span>
+      </div>
+
+      <div class="col">
+        <a href="#" class="fb btn">
+          <i class="fa fa-facebook fa-fw"></i> Login with Facebook
+        </a>
+        <a href="#" class="twitter btn">
+          <i class="fa fa-twitter fa-fw"></i> Login with Twitter
+        </a>
+        <a href="#" class="google btn">
+          <i class="fa fa-google fa-fw"></i> Login with Google+
+        </a>
+      </div>
+
+      <div class="col">
+        <div class="hide-md-lg">
+          <p>Or sign in manually:</p>
+        </div>
+
+        <input type="text" name="username" placeholder="Username" required>
+        <input type="password" name="password" placeholder="Password" required>
+        <input type="submit" value="Login">
+      </div>
+
+    </div>
+  </form>
+</div>
+
+<div class="bottom-container">
+  <div class="row">
+    <div class="col">
+      <a href="#" style="color:white" class="btn">Sign up</a>
+    </div>
+    <div class="col">
+      <a href="#" style="color:white" class="btn">Forgot password?</a>
+    </div>
+  </div>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br>
+<div class="footer"<footer><font size=2>
+		<a href="Privacy">Privacy Statement</a>
+		<p><a href="About">About Us</a></p>

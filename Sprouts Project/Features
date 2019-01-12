@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset= "UTF-8">
+<head>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<ul class="topnav">
+  <li><a href="Landing Page">Home</a></li>
+  <li><a href="Features">Features</a></li>
+  <li><a href="Bug">Bug Hunters</a></li>
+  <li><a href="Contact Us">Contact Us</a></li>
+    <div class="login-container">
+    <form action="login info/action_page.php">
+      <input type="text" placeholder="Username" name="username">
+      <input type="text" placeholder="Password" name="psw">
+      <button type="submit">Login</button>
+      <button><a href="reg">Register</button></a>
+      </form>
+      </div>
+</ul>
+
+<center> <img src= "photos/Logo.jpg" width= "100" height= "100" Alt= "Sprouts Investing" style="width-max:100%">
+
+<font size=5><h2>Sprouts Features</h2></font>
+<p>
+<article></p>
+<p>fill in this space with information regarding the applications features and what it will be able to do once all aspects of the application has been added.</p>
+<p> As features are added i should be adding what they are and a breif description of what they will allow you to do.</p>
+</body></article>
+<br><br><br><br><br><br><br>
+<div class="footer">
+<footer><font size=2>
+	<a href="Privacy">Privacy Statement</a>
+	<p><a href="About">About Us</a></p>

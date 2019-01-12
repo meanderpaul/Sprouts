@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="../css/style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset= "UTF-8">
+
+</style>
+</head>
+<body>
+
+<ul class="topnav">
+  <li><a href="Landing Page">Home</a></li>
+  <li><a href="Features">Features</a></li>
+  <li><a href="Bug">Bug Hunters</a></li>
+  <li><a href="Contact Us">Contact Us</a></li>
+    <div class="login-container">
+    <form action="login info/action_page.php">
+      <input type="text" placeholder="Username" name="username">
+      <input type="text" placeholder="Password" name="psw">
+      <button type="submit">Login</button>
+      <button><a href="reg">Register</button></a>
+      </form>
+      </div>
+</ul>
+
+</head>
+</style>
+
+<body>
+
+<center><font size=6 color="white">About the Team</font></center>
+
+<br><br><br><br>
+<center><table>
+	<th>
+	<div class="card">
+  <img src="../css/photos/Paul.jpg" alt="Paul" height="330" style="width:100%">
+  <h1>Paul Reed</h1>
+  <p class="title">CEO & Founder, Sprouts Investing</p>
+  <div class="font"><p>Unity College</p></div>
+  		<div style="margin: 24px 0;">
+    <a href="#"><i class="fa fa-instagram"></i></a>  
+    <a href="#"><i class="fa fa-linkedin"></i></a>  
+    	</div>
+  <p><button>Contact</button></p>
+	</div>
+</th>
+<th>
+<div class="card">
+  <img src="../css/photos/dakotah.jpg" alt="Dakotah" height="330" style="width:100%">
+  <h1>Dakotah</h1>
+  <p class="title">VP & Public Relations, Sprouts Investing</p>
+  <div class="font"><p>Middle of Nowhere U</p></div>
+  <div style="margin: 24px 0;">
+    <a href="#"><i class="fa fa-instagram"></i></a>  
+    <a href="#"><i class="fa fa-linkedin"></i></a>  
+	 </div>
+  <p><button>Contact</button></p>
+</div>
+</th>
+<th>
+<div class="card">
+  <img src="../css/photos/Robin.jpg" alt="Robin" height="330" style="width: 100%">
+  <h1>Robin</h1>
+  <p class="title">Business Development Manager, Sprouts Investing</p>
+  <div class="font"><p>Middle of Nowhere U</p></div>
+  <div style="margin: 24px 0;">
+    <a href="#"><i class="fa fa-instagram"></i></a>  
+    <a href="#"><i class="fa fa-linkedin"></i></a>  
+	 </div>
+  <p><button>Contact</button></p>
+</div>
+</th></table></center>
+   
+<br><br><br><br><br><br><br>
+<div class="footer">
+<footer>
+	<a href="Privacy">Privacy Statement</a>
+	<p><a href="About">About Us</a></p>
+</style>
+</html>

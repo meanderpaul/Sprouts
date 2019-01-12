@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset= "UTF-8">
+<style>
+
+body {margin: 0;}
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: opacity;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 25px 28px;
+    text-decoration: none;
+}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px){
+    ul.topnav li.right, 
+    ul.topnav li {float: none;}
+}
+
+body {
+ 	background: url("photos/Bar.jpg") no-repeat center fixed;
+ 	background-size: cover;
+ 	
+ 	}
+ 	
+<style>
+
+li {
+    float: left;
+}
+
+</style>
+</head>
+<body>
+
+<ul class="topnav">
+  <li><a href="Dashboard">Dashboard</a></li>
+  <li><a href="Portfolio">Portfolio</a></li>
+  <li><a href="News">News</a></li>
+  <li><a href="Account">Account</a></li>
+  <li style="float: right"><a href="Contact uss">Contact Us</a></li>
+</ul>
+
+<style>
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: opacity;
+   color: black;
+   text-align: left;
+ 
+</head>
+
+<body>
+</body>
+</style>
+<div class="footer">
+<footer><font size=2>
+	<a href="Privacys">Privacy Statement</a>
+	<p><a href="Abouts">About Us</a></p>
+</html>
