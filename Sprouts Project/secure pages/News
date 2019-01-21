@@ -12,48 +12,8 @@
 
   gtag('config', 'UA-132846734-1');
 </script>
-
+<link rel="stylesheet" href="../css/style.css"
 <style>
-
-body {margin: 0;}
-
-ul.topnav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: opacity;
-}
-
-ul.topnav li {float: left;}
-
-ul.topnav li a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 25px 28px;
-    text-decoration: none;
-}
-
-ul.topnav li.right {float: right;}
-
-@media screen and (max-width: 600px){
-    ul.topnav li.right, 
-    ul.topnav li {float: none;}
-}
-
-body {
- 	background: url("photos/Bar.jpg") no-repeat center fixed;
- 	background-size: cover;
- 	
- 	}
- 	
-<style>
-
-li {
-    float: left;
-}
-
 
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <script src="http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.js"
@@ -94,15 +54,6 @@ google.setOnLoadCallback(load);
 </ul>
 
 <style>
-
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: opacity;
-   color: black;
-   text-align: left;
  
  <div id="body">
 <div id="feedControl">Loading...</div>
